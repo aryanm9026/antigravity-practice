@@ -1,0 +1,1 @@
+This repo is not part of any project, this was made under the workshop by GfG X Google for "Build with AI Workshop" and to get familiar with Antigravity, Docker and Google cloud, Google Cloud Run and Google Kubernetes Engine.
